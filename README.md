@@ -1,64 +1,43 @@
 # 👋 Olá, eu sou o Jefferson Ferreira
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Front--end-HTML%20%7C%20CSS%20%7C%20JavaScript-blue" />
-  <img src="https://img.shields.io/badge/Back--end-Java-orange" />
-  <img src="https://img.shields.io/badge/DevOps-Docker-2496ED" />
-  <img src="https://img.shields.io/badge/Versionamento-Git%20%26%20GitHub-black" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-ferreira-tecnologia/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeffersonLF)
+
+---
 
 ## 🚀 Sobre mim
 
-Sou **desenvolvedor em formação**, focado em aprender na prática através de projetos reais. Tenho experiência inicial em **Front-end**, **Java** e **DevOps**, sempre buscando evoluir meus conhecimentos em desenvolvimento de software, automação e boas práticas.
+Sou **desenvolvedor web em formação**, cursando Ciências da Computação pela Universidade Estácio, com foco em **desenvolvimento de software** e **análise de sistemas**.
 
-Atualmente estudo e desenvolvo projetos utilizando **HTML, CSS, JavaScript, Java e Docker**, com interesse em **CI/CD**, organização de código e desenvolvimento web.
+Venho da indústria metalúrgica, onde desenvolvi disciplina, atenção a detalhes e resolução de problemas — habilidades que hoje aplico diretamente no desenvolvimento de soluções tecnológicas.
+
+Atualmente desenvolvo projetos práticos com **React.js, Node.js, PostgreSQL e Docker**, buscando oportunidade como **Estagiário ou Desenvolvedor Júnior** em TI.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Front-end:** HTML, CSS, JavaScript
-* **Back-end / Linguagens:** Java
-* **DevOps:** Docker, conceitos de CI/CD
-* **Versionamento:** Git & GitHub
+- **Front-end:** HTML, CSS, JavaScript, React.js
+- **Back-end:** Node.js, Java
+- **Banco de dados:** PostgreSQL
+- **DevOps:** Docker, CI/CD, GitHub Actions
+- **Versionamento:** Git & GitHub
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔹 Task List – Light & Dark Theme
+### 🔵 [Sistema Web para Gestão Acadêmica](https://github.com/JeffersonLF)
+Aplicação fullstack com cadastro de alunos, professores, cursos e turmas.
+`React.js` `Node.js` `APIs RESTful` `PostgreSQL`
 
-Projeto em **HTML, CSS e JavaScript** com alternância entre tema claro e escuro, aplicando boas práticas como **separação de responsabilidades** e uso de **variáveis CSS**.
+### 🔵 [Task List – Light & Dark Theme](https://github.com/JeffersonLF/task-list-dark-theme)
+Lista de tarefas com alternância entre tema claro e escuro, aplicando boas práticas de CSS e manipulação do DOM.
+`HTML` `CSS` `JavaScript`
 
-🔗 Repositório: [https://github.com/JeffersonLF/task-list-dark-theme](https://github.com/JeffersonLF/task-list-dark-theme)
-
----
-
-### 🔹 DevOps Docker CI
-
-Projeto focado em **Docker e integração contínua**, explorando conceitos básicos de **DevOps**, automação e pipelines.
-
-🔗 Repositório: [https://github.com/JeffersonLF/devops-docker-ci](https://github.com/JeffersonLF/devops-docker-ci)
-
----
-
-### 🔹 Projetos Acadêmicos em Java
-
-Projetos desenvolvidos durante estudos acadêmicos, aplicando fundamentos da linguagem **Java**, lógica de programação e trabalho em equipe.
-
-🔗 Repositórios:
-
-* [https://github.com/JeffersonLF/trabalho-java](https://github.com/JeffersonLF/trabalho-java)
-* [https://github.com/JeffersonLF/Trabalho-team-cruz](https://github.com/JeffersonLF/Trabalho-team-cruz)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeffersonLF&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonLF&layout=compact" />
-</p>
+### 🔵 [DevOps Docker CI](https://github.com/JeffersonLF/devops-docker-ci)
+Projeto prático de DevOps com containerização Docker e pipelines de CI/CD.
+`Docker` `CI/CD` `DevOps`
 
 ---
 
@@ -66,13 +45,6 @@ Projetos desenvolvidos durante estudos acadêmicos, aplicando fundamentos da lin
 
 Busco oportunidades de **estágio ou posição júnior**, onde eu possa aprender, contribuir e evoluir como desenvolvedor, participando de projetos reais e colaborativos.
 
----
-
-## 📫 Contato
-
-* GitHub: [https://github.com/JeffersonLF](https://github.com/JeffersonLF)
-
----
+📩 jeluisferreira@gmail.com | 📱 (11) 99552-1417
 
 ⭐ Sempre aberto a aprender coisas novas, receber feedbacks e melhorar meus projetos!
-
